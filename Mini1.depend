@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637163898 source:d:\chen_hw\mini1\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
